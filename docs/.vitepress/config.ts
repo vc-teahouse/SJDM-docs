@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
 	lang: 'zh-CN',
-	base: '/',
+	base: '/SJDM-docs/',
 	title: '随机点名',
 	description: '学生党的快乐利器',
 	head: [['link', { rel: 'icon', href: '/favicon.png' }]],
