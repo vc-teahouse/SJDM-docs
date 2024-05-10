@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: Gitee
       link: https://gitee.com/vc_teahouse/SJDM
+    - theme: alt
+      text: Github
+      link: https://github.com/luyanci/SJDM
 
 features:
   - title: 兼容性強
